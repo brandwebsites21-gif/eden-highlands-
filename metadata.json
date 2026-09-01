@@ -1,0 +1,7 @@
+{
+  "name": "Eden Highlands Hotel",
+  "description": "A comfortable, self-contained stay on the TANZAM Highway, Mbeya. Free Wi-Fi, parking, air conditioning, and a fully equipped kitchen in every room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
